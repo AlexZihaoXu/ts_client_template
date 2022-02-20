@@ -12,7 +12,7 @@ eH1.style.fontFamily = 'Tahoma, sans-serif'
 eH1.style.fontSize = '3rem'
 eH1.style.fontWeight = '500'
 eH1.style.userSelect = 'none'
-eH1.style.textShadow = '0px 0px 6rem #444'
+eH1.style.textShadow = '0px 0px 2rem #444'
 document.body.appendChild(eH1)
 
 document.title = "TS Client Template"
